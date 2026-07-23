@@ -9,4 +9,4 @@
 ### 4. Findings: It was found that those in the Virgin Islands are much more likely to possess diabetes, smoke, and be depressed.
 
 ### 5. Fairness check: Originally, there were many empty values and duplicates in the dataset. These were all fixed. I then found trends using graphs and machine learning models. However, there were a few challenges regarding this project.  It turns out, all the illnesses were at a higher amount in the Virgin Islands specifically. I would not jump to conclusions using this dataset until doing further research. If I had another week, I would tie these findings to further research. 
-### 6. Team members: Logan Patel
+### 6. Team members: Logan Patel and Gemini AI. I used Gemini AI to do the coding, such as creating the charts and the machine learning models. I cleaned the dataset and came up with the ideas, tying the Virgin Islands to various illnesses such as Diabetes, Depression, and Smoking. I also came up with the idea to find trends of depression over time. I only used Gemini to help with the coding aspect, but the details and the analysis are mine. 
